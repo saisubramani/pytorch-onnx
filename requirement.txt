@@ -1,0 +1,4 @@
+pip3 install torch torchvision
+pip3 install cython
+pip3 install opencv-python pillow pycocotools matplotlib 
+pip3 install onnx==1.4.1
