@@ -1,6 +1,6 @@
 This Reprository is mainly for converting the pytorch model to onnx model.
 
-** Note : **
+**Note:**
 
 1. Note that ONNX Runtime is compatible with Python versions 3.5 to 3.7
 2. Install the Python 3.5 >= 3.7
